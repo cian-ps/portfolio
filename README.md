@@ -1,22 +1,38 @@
-<h2>Hi! My name is <a href="https://github.com/cian-ps">Pablo Strunz</a><h2>
-I'm a self taught Python Programmer and Data Scientist.
+#  Pablo Strunz - Data Science Portfolio
 
-<h2>🤖 Machine Learning Projects:</h2>
+Hi there! I'm Pablo Strunz, a self taught Python Programmer and Data Scientist.
 
-- [Dog Breed Detection](https://github.com/cian-ps/dog-breed-detection)
-- [Bulldozer Price Prediction](https://github.com/cian-ps/ml_lab_bluebook-bulldozers)
+---
 
-<h2>Python Practice:</h2>
+##  Skills & Technologies
 
-- [Advent Of Code 2025](https://github.com/cian-ps/AoC-2025)
-- [Hackerrank Coding Challanges](https://github.com/cian-ps/hackerrank_solutions)
+- **Languages**: Python
+- **Libraries**: Pandas, NumPy, Scikit-learn, Tensorflow, Keras, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, Git
+- **Concepts**: Regression, Classification, Time Series Forecasting
 
-<h2>Certfications</h2>
+---
 
-- [Python (Basic) Certificate](https://www.hackerrank.com/certificates/60e73997f090)
+## 🤖 Machine Learning Projects:
 
-<h2>Skills:</h2>
-<img align="left" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-<img align="left" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
-<img align="left" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
-<img width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+### 1. Dog Breed Detection
+**Goal**: Determine a dog's breed from a photo  
+**Tech Stack**: Python, Google Colab, Tensorflow, Transfer Learning  
+[🔗 View Project](https://github.com/cian-ps/dog-breed-detection)
+
+---
+
+### 2. Bulldozer Sale Price Predictiion
+**Goal**: Predict the sale price of a bulldozer from past sales data.  
+**Tech Stack**: Python, Scikit-Learn, Catboost, Random Forest, Time Series Data 
+- Compared Random Forest Regressor vs Catboost Regressor.
+- Hyperparameter Tuning using RandomizedSearchCV & GridSearchCV
+- Achieved a root mean squared log error of 0.36  
+[🔗 View Project](https://github.com/cian-ps/ml_lab_bluebook-bulldozers)
+
+---
+
+## 🏅 Certifications
+
+[🔗 Python (Basic) Certificate](https://www.hackerrank.com/certificates/60e73997f090)
+
