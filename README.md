@@ -1,9 +1,3 @@
-#  Pablo Strunz - Portfolio
-
-Data Analyst / Data Scientist
-
----
-
 ##  Skills & Technologies
 
 - **Language**: Python
