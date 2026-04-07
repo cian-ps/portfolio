@@ -1,5 +1,7 @@
 # Data Science Portfolio
 
+---
+
 ##  Skills & Technologies
 
 - **Language**: Python
