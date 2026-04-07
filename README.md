@@ -75,7 +75,7 @@ Neural Style Transfer (NST) refers to a class of software algorithms that manipu
 
 ---
 
-### 3. Bulldozer Sale Price Predictiion
+### 3. Bulldozer Sale Price Prediction
 **Goal**: Predict the sale price of a bulldozer based on previous sales data.
 
 **Tech Stack**: Scikit-Learn, Catboost, Random Forest, Time Series Data
