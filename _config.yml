@@ -2,4 +2,4 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Pablo Strunz
-description: Data Analyst / Data Scientist
+description: Python Programmer with a passion for Data Science
