@@ -1,10 +1,10 @@
-# Data Science Portfolio
+# Portfolio
 
 ---
 
 ##  Skills & Technologies
 
-- **Language**: Python
+- **Languages**: Python
 - **Libraries**: Pandas, Numpy, Scipy, Scikit-learn, Pytorch, Matplotlib, Plotly, Dash
 - **Tools**: Bash Shell, Jupyter Notebooks, Git, Conda
 - **Concepts**: Deep Learning, Regression, Classification, Time Series Data, Descriptive & Inferential Statistics, Data Analysis
