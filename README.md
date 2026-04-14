@@ -15,7 +15,7 @@
 
 ### 1. Customer Behavior Analysis
 
-Building a data dashboard with `Plotly Dash`, a Python framework for building data web-apps.
+Building a data dashboard with Plotly Dash, a Python framework for building data web-apps.
 
 **Goal**: Analyzing how customers engage with the *'365 Data Science'* online learning platform and building an interactive dashboard with Plotly Dash.
 
