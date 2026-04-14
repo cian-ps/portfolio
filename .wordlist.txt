@@ -1,6 +1,6 @@
 hyperparameters
 NST
-Web UI
+UI
 VGG
 convolutional
 backpropagation
