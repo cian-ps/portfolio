@@ -4,10 +4,10 @@
 
 ##  Skills & Technologies
 
-- **Languages**: Python
-- **Libraries**: Pandas, Numpy, Scipy, Scikit-learn, Pytorch, Matplotlib, Plotly, Dash
-- **Tools**: Bash Shell, Jupyter Notebooks, Git, Conda
-- **Concepts**: Deep Learning, Regression, Classification, Time Series Data, Descriptive & Inferential Statistics, Data Analysis
+- **Languages**: `Python`
+- **Libraries**: `Pandas` `NumPy` `SciPy` `Scikit-learn` `PyTorch` `Matplotlib` `Plotly` `Dash`
+- **Tools**: `Bash Shell` `Jupyter Notebooks` `Git` `Conda`
+- **Concepts**: `Deep Learning` `Regression` `Classification` `Time Series Data` `Descriptive & Inferential Statistics` `Data Analysis`
 
 ---
 
@@ -15,11 +15,11 @@
 
 ### 1. Customer Behavior Analysis
 
-Building a data dashborad with Plotly Dash, a Python framework for building data web-apps.
+Building a data dashboard with `Plotly Dash`, a Python framework for building data web-apps.
 
 **Goal**: Analyzing how customers engage with the *'365datascience'* online learning platform and building an interactive dashboard with Plotly Dash.
 
-**Tech Stack**: Plotly, Dash, Pandas, Time Series Data
+**Tech Stack**: `Plotly` `Dash` `Pandas` `Time Series Data`
 - Query relevant information from an SQL database.
 - Data preprocessing with Pandas.
 - Data visualization with Plotly.
@@ -38,7 +38,7 @@ Writing blog posts about statistical concepts related to data science.
 
 **Goal**: Learning about statistics and creating a simple blog with Github Pages.
 
-**Tech Stack**: Github, Jekyll, Matplotlib
+**Tech Stack**: `Github` `Jekyll` `Matplotlib`
 - Describing statistical topics, along with formulas, graphs and code.
 - Creating a static website with Jekyll and deploying it to Github Pages.
 
@@ -54,7 +54,7 @@ Neural Style Transfer (NST) refers to a class of software algorithms that manipu
 
 **Goal**: Build, train and deploy a neural network that stylizes images on the fly.
 
-**Tech Stack**: Pytorch, Deep Learning, Gradio
+**Tech Stack**: `Pytorch` `Deep Learning` `Gradio`
 - Use a pre-trained VGG Network to extract features from images.
 - Build a feedforward network combining convolutional, residual and upsampling blocks.
 - Train the feedforward network on 4 different style images using backpropagation to minimize a perceptual loss.
@@ -69,7 +69,7 @@ Neural Style Transfer (NST) refers to a class of software algorithms that manipu
 ### 2. Dog Breed Detection
 **Goal**: Determine a dog's breed from a photo.
 
-**Tech Stack**: Computer Vision, Tensorflow, Transfer Learning
+**Tech Stack**: `Computer Vision` `Tensorflow` `Transfer Learning`
 - Trained a multi-class image classifier on ~10000 labeled images.
 - The model achieved a multi-class log loss of 0.87 on the test data.
  
@@ -80,7 +80,7 @@ Neural Style Transfer (NST) refers to a class of software algorithms that manipu
 ### 3. Bulldozer Sale Price Prediction
 **Goal**: Predict the sale price of a bulldozer based on previous sales data.
 
-**Tech Stack**: Scikit-Learn, Catboost, Random Forest, Time Series Data
+**Tech Stack**: `Scikit-Learn` `Catboost` `Random Forest` `Time Series Data`
 - Compared Random Forest Regressor vs Catboost Regressor.
 - Improved the model's hyperparameters using RandomizedSearchCV & GridSearchCV
 - Achieved a root mean squared log error of 0.36
