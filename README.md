@@ -58,7 +58,7 @@ Neural Style Transfer (NST) refers to a class of software algorithms that manipu
 - Use a pre-trained VGG Network to extract features from images.
 - Build a feedforward network combining convolutional, residual and upsampling blocks.
 - Train the feedforward network on 4 different style images using backpropagation to minimize a perceptual loss.
-- Deploy the project on Huggingface using Gradio to create a WebUI.
+- Deploy the project on Huggingface using Gradio to create a Web UI.
 
 [🔗 App](https://huggingface.co/spaces/cian-ps/image_stylization)
 
