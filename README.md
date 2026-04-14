@@ -17,7 +17,7 @@
 
 Building a data dashboard with `Plotly Dash`, a Python framework for building data web-apps.
 
-**Goal**: Analyzing how customers engage with the *'365datascience'* online learning platform and building an interactive dashboard with Plotly Dash.
+**Goal**: Analyzing how customers engage with the *'365 Data Science'* online learning platform and building an interactive dashboard with Plotly Dash.
 
 **Tech Stack**: `Plotly` `Dash` `Pandas` `Time Series Data`
 - Query relevant information from an SQL database.
